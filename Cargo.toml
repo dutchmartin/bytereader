@@ -6,5 +6,7 @@ exclude = [
     "src/main.rs"
 ]
 include = ["src/lib.rs", "src/byte.rs", "src/hex.rs", "Cargo.toml"]
+description = "Small and flexible package for easily reading files in binary format and playing around with their hex representations."
+license = "MIT"
 
 [dependencies]
