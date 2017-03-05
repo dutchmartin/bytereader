@@ -1,0 +1,10 @@
+[package]
+name = "bytereader"
+version = "0.1.0"
+authors = ["Luca Marcelli <ionix@protonmail.com>"]
+exclude = [
+    "src/main.rs"
+]
+include = ["src/lib.rs", "src/byte.rs", "src/hex.rs", "Cargo.toml"]
+
+[dependencies]
