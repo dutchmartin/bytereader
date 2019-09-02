@@ -1,2 +1,3 @@
-pub mod byte;
-pub mod hex;
+#![no_std]
+pub mod bytereader;
+
